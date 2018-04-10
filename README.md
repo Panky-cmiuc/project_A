@@ -1,3 +1,2 @@
 # project_A
-Banker's Algorithm using multithreading
-
+Implementing Banker's Algorithm
